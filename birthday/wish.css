@@ -1,0 +1,57 @@
+.main{
+	background: url("img/heart.jpg");
+}
+.clearfix:after{
+    content: '';
+    clear: both;
+    display: table;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.cake_contents{
+    width: 100%;
+}
+.cake{
+    max-width: 50%;
+}
+.cake_right{
+    margin-right: 40px;
+    margin-top: 53px;
+    border: 2px solid black;
+    max-width: 48%;
+    background-color: yellow;
+}
+.cake_right h1{
+    margin: 20px 20px 20px 20px;
+    color: purple;
+}
+
+.cake_right h2{
+    margin-left: 20px;
+    font-size: 40px;
+    color: red;
+}
+.middle_content{
+    width: 100%;
+}
+.couple_content{
+    margin-top: 30px;
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 70px;
+    background-color: yellow;
+    border: 2px solid black;
+}
+
+.couple_content h1{
+    margin-left: 50px;
+    color: purple;
+}
